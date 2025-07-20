@@ -15,7 +15,7 @@ spec:
         namespace: flux-system
   install:
     createNamespace: true
-  interval: 1m0s
+  interval: 1m1s
   targetNamespace: podtato-flux
   values:
     entry:
